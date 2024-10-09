@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**gasnicdev/gasnicdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# gasnicowydivolper (OLOMIK) 💻
+### 14-year-old fullstack developer from Poland
+## My projects:
+- 📝 Nota (programming notepad, support only up to v9+)
+- 🖼️ ColorBJ (graphic editor)
+- 🧨 RzucakClicker (extensive open-source clicker (winforms c#, unity, Olomowo engine) (no support for the Olomowo engine version) (no support)
+- 💡 RandomLight (a minecraft plugin that puts light in random places (currently supported by me))
+- 🖼️ IMA (less powerful graphics editor than colorbj, not open-source, no support, old project)
+---
+### Discord:
+[*click*](https://discord.gg/JJayWyCzBV)
